@@ -1,0 +1,8 @@
+When  to use Binary Search?
+Binary Search is used when we have sorted array .
+It uses three parameters
+1.low
+2.mid
+3.high
+mid=(low)+(high-low)/2;
+we use (high-low) so that we will be in range of integer.
