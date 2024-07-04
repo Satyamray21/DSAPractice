@@ -34,7 +34,7 @@ public class missing {
     }   
     
     public static void main(String[] args) {
-        int[] a={3,0,1};
+        int[] a={0,1};
        System.out.print( missingNumber(a));
         
     }
