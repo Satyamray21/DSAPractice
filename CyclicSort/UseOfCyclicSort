@@ -1,0 +1,4 @@
+When to use Cyclic Sort?
+When an array is given from 0 to n and you have to perform operation to get desired output.
+In this we irrate through whole array and match the value of current index value and index value
+if its same then move else swap with correct index.
